@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain_google_genai
+crewai_tools
+google-generativeai
+litellm 
+pydantic 
+python-dotenv
+
+
