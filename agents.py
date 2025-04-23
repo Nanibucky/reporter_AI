@@ -5,9 +5,8 @@ import os
 
 load_dotenv()
 
-
+#openai
 llm = LLM(
-    # provider="openai/chatgpt",
     model="gpt-3.5-turbo",
     api_key=os.getenv("OPENAI_API_KEY")
 )
